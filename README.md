@@ -1,2 +1,3 @@
 # hello-world
 This is for practicing GitHub Flow
+I am married and a mother of 2 beautiful children. I am going to finish school and get to where I want to be in life. I will not fail...
